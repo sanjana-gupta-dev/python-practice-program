@@ -1,2 +1,9 @@
 # python-practice-program
-Python  practice  programs like factorial ,palindrome, prime number and patterns 
+This respository contains basic Python practice program.
+
+Programs included:
+-Prime Number
+-Palindrome
+-Factorial
+
+These programs are written using Python and tested in Visual Studio Code.
