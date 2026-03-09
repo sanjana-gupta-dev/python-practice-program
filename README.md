@@ -1,9 +1,14 @@
-# python-practice-program
-This respository contains basic Python practice program.
+# python-practice-programs
+This respository contains basic Python practice programs.
 
 Programs included:
 -Prime Number
 -Palindrome
 -Factorial
+-Fibonacci
+-Even_odd_function
+-Add_function
+-Armstrong
 
-These programs are written using Python and tested in Visual Studio Code.
+
+These programs are created while learning Python.
