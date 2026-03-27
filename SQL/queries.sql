@@ -37,3 +37,22 @@ SELECT marks, COUNT(*)
 FROM students
 GROUP BY marks
 HAVING COUNT(*) > 1;
+
+
+-- INNER JOIN
+SELECT students.name, marks.marks
+FROM students
+INNER JOIN marks
+ON students.id = marks.id;
+
+-- LEFT JOIN
+SELECT students.name, marks.marks
+FROM students
+LEFT JOIN marks
+ON students.id = marks.id;
+
+-- RIGHT JOIN
+SELECT students.name, marks.marks
+FROM students
+RIGHT JOIN marks
+ON students.id = marks.id;
