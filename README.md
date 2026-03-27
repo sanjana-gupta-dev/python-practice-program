@@ -1,30 +1,39 @@
-# Python Practice Programs
+# Python Practice Programs 🚀
 
-This repository contains basic Python programs created while learning Python.
+This repository contains basic Python programs and projects created while learning Python.
 
-## 📌 Programs Included:
-- Prime Number
-- Palindrome
+## 📌 Programs Included
 - Factorial
 - Fibonacci
+- Prime Number
+- Armstrong Number
+- Palindrome
 - Even Odd
-- Addition
-- Armstrong
 
-## 💻 OOPs Concepts:
+## 🧠 OOP Concepts
 - Class & Object
-- Constructor (__init__)
-- Inheritance (Car & ElectricCar)
+- Inheritance
+- Encapsulation
 
-## 🗄️ SQL Practice:
+## 🗄️ SQL Practice
 - SELECT queries
-- WHERE clause
-- GROUP BY & HAVING
-- Aggregate functions (AVG, MAX, COUNT)
+- WHERE conditions
+- GROUP BY
+- HAVING
+- JOIN
+- Subqueries
 
-## 🎯 Purpose:
-To practice Python, OOPs, and SQL concepts and improve problem-solving skills.
+## 💻 Mini Project
+### Student Management System
+- Add Student
+- Show Students
+- Search Student
+- Delete Student
+- Update Student
+- Data stored using JSON file
 
-## 🚀 Future Plan:
-- Add more advanced programs
-- Start Django projects
+## 📂 Folder Structure
+- Basic Programs
+- OOP
+- SQL
+- Mini Project
